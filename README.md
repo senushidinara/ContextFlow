@@ -1488,7 +1488,7 @@ CORS_ORIGIN=http://localhost:5173
 2. Clone and Setup
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/senushidinara/ContextFlow/blob/main/>
 cd contextflow
 ```
 
