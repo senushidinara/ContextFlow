@@ -174,9 +174,7 @@ Bridging Minds and Machines — where real-time emotion intelligence meets autom
 ## 🏗 Architecture Diagram
 
 <details>
-<summary>Click to expand the ASCII Architecture Diagram</summary>
-
-       <details>
+       
 <summary>Click to expand the ContextFlow Architecture 🌐</summary>
 
 ```
