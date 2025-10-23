@@ -165,6 +165,46 @@ It continuously learns from context, synchronizes multi-source data, and generat
         │ - SmartBuckets           │
         └──────────────────────────┘
  ```
+# ⚡ ContextFlow: Emotion-Aware Cognitive ETL System
+
+Bridging Minds and Machines — where real-time emotion intelligence meets automated data synchronization.
+
+---
+
+## 🏗 Architecture Diagram
+
+<details>
+<summary>Click to expand the ASCII Architecture Diagram</summary>
+
+       <details>
+<summary>Click to expand the ContextFlow Architecture 🌐</summary>
+
+```
+┌───────────────┐        ┌──────────────────┐        ┌─────────────────────┐
+│ 🎥 Camera & 🎤│        │ 🎭 TensorFlow.js │        │ 🤖 Gemini Nano APIs │
+│   User Input  │ ───▶  │ Emotion & Intent │ ───▶  │ Summarizer, Writer, │
+└───────────────┘        │ Embeddings       │        │ Translator, Proof.  │
+                         └──────────────────┘        └─────────────────────┘
+                                   │
+                                   ▼
+                        ┌───────────────────────┐
+                        │ 📊 Elastic Vector Search │
+                        │ Contextual Storage       │
+                        └───────────────────────┘
+                                   │
+                                   ▼
+                        ┌─────────────────────────┐
+                        │ 💻 React + Node.js Front │
+                        │ Adaptive UI & Orchestration│
+                        └─────────────────────────┘
+                                   │
+                                   ▼
+                        ┌───────────────────────┐
+                        │ 🗣 ElevenLabs TTS      │
+                        │ Voice Output           │
+                        └───────────────────────┘
+```
+
 ## 🧩 Technology Stack  
 
 | Tool                     | Role                                           |
